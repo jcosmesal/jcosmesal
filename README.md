@@ -1,5 +1,5 @@
 # ¡Hola! Soy Joel 👋 (jcosmesal)
-### Analista Desarrollador de Perú
+### Analista Desarrollador
 
 Soy un desarrollador enfocado en el aprendizaje continuo y la creación de soluciones prácticas. Actualmente, desarrollo herramientas de utilidad digital y finanzas aplicadas al contexto peruano, buscando siempre el equilibrio entre funcionalidad y rendimiento.
 
