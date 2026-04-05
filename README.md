@@ -29,11 +29,6 @@ Plataforma de herramientas financieras para Perú diseñada con **Angular**.
 
 ---
 
-## 📈 Actividad en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jcosmesal&show_icons=true&theme=default&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jcosmesal&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 📫 Contacto
 * **Web:** [calculadora.pe](https://calculadora.pe)
